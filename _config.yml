@@ -58,23 +58,23 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Cory Nelson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Software Developer & IT Professional"
+  bio    : "Software Engineer"
   links:
-    - label: "GitHub"
+    - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NelsonCory"
-    - label: "Itchio"
+    - label: "Itch.io"
       icon: "fab fa-fw fa-itch-io"
       url: "https://nelsoncory.itch.io/"
 
 footer:
   links:
-    - label: "GitHub"
+    - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Itchio"
+    - label: "Itch.io"
       icon: "fab fa-fw fa-itch-io"
       url: "https://nelsoncory.itch.io/"
 
