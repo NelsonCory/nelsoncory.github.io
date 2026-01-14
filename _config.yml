@@ -62,6 +62,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Software Engineer"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/-nelsoncory/"
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NelsonCory"
@@ -77,6 +80,9 @@ footer:
     - label: "Itch.io"
       icon: "fab fa-fw fa-itch-io"
       url: "https://nelsoncory.itch.io/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/-nelsoncory/"
 
 defaults:
   # _posts
