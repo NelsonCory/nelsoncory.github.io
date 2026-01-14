@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a software engineer and IT professional based out of Nashville, Tennessee. I graduated from Middle Tennessee State University in 2021, where I majored in Computer Science with a minor in Political Science.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Coding has captivated me from a young age. I first learned to code following early Flash tutorials on Newgrounds. This evolved into developing text-based adventure games, laying the foundation for my enduring passion for development. Over the years, that passion has guided me toward a path of continous learning.
+
+I am on the lookout for a forward-thinking organization that fosters professional growth while providing opportunities to engage with impactful projects. I am driven by the belief that technology can shape a better future for individuals and communities alike.
