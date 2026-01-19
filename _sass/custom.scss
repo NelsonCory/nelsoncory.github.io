@@ -1,0 +1,36 @@
+// Custom styles for featured articles
+// Match the styling of archive/posts pages
+
+.featured-section {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.featured-articles {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.featured-articles .archive__subtitle {
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+// Ensure featured articles use the same link styling as archive items
+.featured-articles .archive__item-title a {
+  // Links will inherit the theme's archive item link styles
+  // This ensures consistency with posts page
+}
+
+// If no teaser image, hide the teaser div to maintain layout
+.featured-articles .archive__item-teaser:empty {
+  display: none;
+}
+
+.featured-articles .archive__item {
+  // Ensure spacing matches archive items
+  margin-bottom: 1.5rem;
+}
+
