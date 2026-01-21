@@ -1,5 +1,5 @@
 ---
-title: "20 Games Challenge"
+title: "20 Games Challenge - Compendium"
 date: 2026-01-20T15:34:30-04:00
 featured: true
 categories:

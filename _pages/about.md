@@ -5,8 +5,8 @@ layout: single
 author_profile: true
 ---
 
-I am a software engineer and IT professional based out of Nashville, Tennessee. I graduated from Middle Tennessee State University in 2021, where I majored in Computer Science with a minor in Political Science.
+I am a software engineer and IT professional based out of Nashville, Tennessee. I am a graduate of Middle Tennessee State University, where I majored in Computer Science with a minor in Political Science. I enjoy thinking about systems, and developing in the space where design and technology meets to create great user experiences.
 
-Coding has captivated me from a young age. I first learned to code following early Flash tutorials on Newgrounds. This evolved into developing text-based adventure games, laying the foundation for my enduring passion for development. Over the years, that passion has guided me toward a path of continous learning.
+My passion is building solutions. Whether developing internal tools, furthering automation efforts, or improving UX, you can be sure to find me with an extra project.
 
-I am on the lookout for a forward-thinking organization that fosters professional growth while providing opportunities to engage with impactful projects. I am driven by the belief that technology can shape a better future for individuals and communities alike.
+Join me as I document my development and growth journey. Here I will break down my projects, provide retrospectives as I expand my professional credentials, and share my thoughts on the state of software and all things where interactive experiences are concerned.
