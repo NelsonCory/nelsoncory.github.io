@@ -1,8 +1,10 @@
 ---
-title: "Home"
+title: "Hey, I'm Cory!"
 permalink: /
-layout: posts
+layout: home
 author_profile: true
 ---
 
-I am a software engineer and IT professional based out of Nashville, Tennessee. I graduated from Middle Tennessee State University in 2021, where I majored in Computer Science with a minor in Political Science.
+Follow my progress through the 20 Games Challenge, as I dive into the open source Godot engine for the first time!
+
+Check out the featured articles below, and connect with me on LinkedIn if you'd like to chat!
